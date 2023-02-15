@@ -1,4 +1,4 @@
-# Formulario com Express, NodeJS
+# Formulario com Express e NodeJS
 
 Este é um código em JavaScript que utiliza o framework Express para criar uma aplicação web. A aplicação tem uma rota que recebe um formulário enviado pelo usuário e, em seguida, verifica se todos os campos do formulário foram preenchidos antes de enviar uma resposta.
 
